@@ -54,11 +54,9 @@ https://b23.tv/W2Bhy2h
 
 ### 📸 项目截图
 -后台分配界面
-![后台分配界面](https://github.com/chessy-css/portfolio/blob/main/allocate_pages.png
-)<img width="733" height="28" alt="image" src="https://github.com/user-attachments/assets/2f0b47a7-64ec-4f6f-bbd1-6d49abb01ddf" />
+![后台分配界面](https://github.com/chessy-css/portfolio/blob/main/allocate_pages.png)
 -司机最短路径界面
-![司机最短路径界面](https://github.com/chessy-css/portfolio/blob/main/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.png
-)<img width="787" height="55" alt="image" src="https://github.com/user-attachments/assets/a06c1ec3-0d2c-4937-9d44-837810d769b0" />
+![司机最短路径界面](https://github.com/chessy-css/portfolio/blob/main/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.png)
 
 ---
 
