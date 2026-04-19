@@ -53,8 +53,6 @@ https://b23.tv/W2Bhy2h
 - 分配成功率 >90%，日订单支持100+
 
 ### 📸 项目截图
--后台分配界面
-![后台分配界面](https://github.com/chessy-css/portfolio/blob/main/allocate_pages.png)
 -司机最短路径界面
 ![司机最短路径界面](https://github.com/chessy-css/portfolio/blob/main/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.png)
 
