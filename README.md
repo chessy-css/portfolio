@@ -21,9 +21,12 @@
 - 获校级电磁学小论文一等奖
 
 ### 📸 项目截图
+-正常聚焦扩散动图
 ![正常聚焦扩散动图](https://github.com/chessy-css/portfolio/blob/main/%E6%AD%A3%E5%B8%B8%E8%81%9A%E7%84%A6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9.gif)
+-磁场梯度较大时轨迹动图
 ![磁场梯度较大时轨迹动图](https://github.com/chessy-css/portfolio/blob/main/%E7%A3%81%E5%9C%BA%E6%A2%AF%E5%BA%A6%E8%BE%83%E5%A4%A7%E6%97%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9.gif)
-![通过设计磁场来控制粒子束流形状，绘制圣诞树](https://github.com/chessy-css/portfolio/blob/main/%E8%AE%BE%E8%AE%A1%E7%A3%81%E5%9C%BA%E6%8E%A7%E5%88%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9%E7%BB%98%E5%88%B6%E5%9C%A3%E8%AF%9E%E6%A0%91.png)
+-设计磁场控制电子束绘制圣诞树
+![设计磁场控制电子束绘制圣诞树](https://github.com/chessy-css/portfolio/blob/main/%E8%AE%BE%E8%AE%A1%E7%A3%81%E5%9C%BA%E6%8E%A7%E5%88%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9%E7%BB%98%E5%88%B6%E5%9C%A3%E8%AF%9E%E6%A0%91.png)
 
 
 ---
@@ -50,8 +53,10 @@ https://b23.tv/W2Bhy2h
 - 分配成功率 >90%，日订单支持100+
 
 ### 📸 项目截图
+-后台分配界面
 ![后台分配界面](https://github.com/chessy-css/portfolio/blob/main/allocate_pages.png
 )<img width="733" height="28" alt="image" src="https://github.com/user-attachments/assets/2f0b47a7-64ec-4f6f-bbd1-6d49abb01ddf" />
+-司机最短路径界面
 ![司机最短路径界面](https://github.com/chessy-css/portfolio/blob/main/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.png
 )<img width="787" height="55" alt="image" src="https://github.com/user-attachments/assets/a06c1ec3-0d2c-4937-9d44-837810d769b0" />
 
