@@ -21,9 +21,9 @@
 - 获校级电磁学小论文一等奖
 
 ### 📸 项目截图
-![正常聚焦扩散动图]([这里粘贴你的截图1链接](https://github.com/chessy-css/portfolio/blob/main/%E6%AD%A3%E5%B8%B8%E8%81%9A%E7%84%A6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9.gif))
-![磁场梯度较大时轨迹动图]([这里粘贴你的截图2链接](https://github.com/chessy-css/portfolio/blob/main/%E7%A3%81%E5%9C%BA%E6%A2%AF%E5%BA%A6%E8%BE%83%E5%A4%A7%E6%97%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9.gif))
-![通过设计磁场来控制粒子束流形状，绘制圣诞树]([这里粘贴你的截图2链接](https://github.com/chessy-css/portfolio/blob/main/%E8%AE%BE%E8%AE%A1%E7%A3%81%E5%9C%BA%E6%8E%A7%E5%88%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9%E7%BB%98%E5%88%B6%E5%9C%A3%E8%AF%9E%E6%A0%91.png))
+![正常聚焦扩散动图](https://github.com/chessy-css/portfolio/blob/main/%E6%AD%A3%E5%B8%B8%E8%81%9A%E7%84%A6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9.gif)
+![磁场梯度较大时轨迹动图](https://github.com/chessy-css/portfolio/blob/main/%E7%A3%81%E5%9C%BA%E6%A2%AF%E5%BA%A6%E8%BE%83%E5%A4%A7%E6%97%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9.gif)
+![通过设计磁场来控制粒子束流形状，绘制圣诞树](https://github.com/chessy-css/portfolio/blob/main/%E8%AE%BE%E8%AE%A1%E7%A3%81%E5%9C%BA%E6%8E%A7%E5%88%B6%E7%B2%92%E5%AD%90%E8%BD%A8%E8%BF%B9%E7%BB%98%E5%88%B6%E5%9C%A3%E8%AF%9E%E6%A0%91.png)
 
 
 ---
